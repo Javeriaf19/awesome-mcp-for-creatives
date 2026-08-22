@@ -1,0 +1,59 @@
+﻿name: 🚀 New MCP Server Submission
+description: Submit a new MCP server curated for creatives, freelancers, or indie builders.
+labels: ["new-server", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep this directory fresh and high quality!
+        Please ensure the server meets our [Contributing Guidelines](../CONTRIBUTING.md).
+  - type: input
+    id: server_name
+    attributes:
+      label: Server Name
+      placeholder: "e.g., Figma MCP"
+    validations:
+      required: true
+  - type: input
+    id: repo_url
+    attributes:
+      label: Repository URL
+      placeholder: "https://github.com/..."
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - "Design & Creative Tools"
+        - "Client & Freelance Ops"
+        - "Content, Media & Social"
+        - "Docs, Files & Knowledge Base"
+        - "Search & Inspiration Research"
+        - "Dev Tools (for Designers & Builders)"
+    validations:
+      required: true
+  - type: textarea
+    id: what_it_does
+    attributes:
+      label: What it does (1-2 sentences)
+      placeholder: "Brief explanation of core features..."
+    validations:
+      required: true
+  - type: textarea
+    id: recommendation_notes
+    attributes:
+      label: Honest Recommendation / Caveats
+      placeholder: "Who is this best for? Any setup quirks or pricing limits?"
+    validations:
+      required: true
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Quality Checklist
+      options:
+        - label: "This server is actively maintained (commits within last 6 months)."
+          required: true
+        - label: "This server solves a real creative/freelance workflow (not generic cloud infra)."
+          required: true
