@@ -61,6 +61,7 @@ If this saved you time, please drop a ⭐ **Star** — it helps more creators di
 | **[Google Drive MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive)** | Search, read, and manage files, folders, and client assets stored on Google Drive. | Pull client briefs, PDF proposals, and brand assets directly into conversations instead of manual uploading. |
 | **[Stripe MCP](https://github.com/stripe/agent-toolkit)** | Query payments, customer invoices, subscription status, and invoice summaries via natural language. | Only worth connecting once you are invoicing clients directly through Stripe; otherwise skip. |
 | **[Airtable MCP](https://github.com/domdomegg/airtable-mcp)** | Read, update, and search Airtable bases — client CRM, project pipelines, and asset registries. | Ideal if your freelance client portal or creative job pipeline is organized in Airtable. |
+| **[Statsnet MCP](https://github.com/usenetstate/statsnet-mcp)** | Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` | Useful before onboarding a new client or vendor — worldwide company registration, executives, courts, finances. |
 
 ---
 
