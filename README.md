@@ -100,6 +100,7 @@ If this saved you time, please drop a **Star** — it helps more creators discov
 
 | Server | What it does | Honest Notes & Recommendation |
 | :--- | :--- | :--- |
+| **[Aident Loadout](https://aident.ai)** ([skill](https://github.com/Aident-AI/aident-skill), [MCP](https://loadout.aident.ai/mcp)) | Connects Codex, Claude Code, Cursor, ChatGPT and other MCP clients to 1,000+ apps and 400+ expert-built Skills through one reusable setup. Credentials stay in Aident Vault; every action is logged in Audit. | **When to use:** Freelancers and indie builders who want one MCP for client apps (email, docs, CRM, design SaaS) instead of wiring each integration. Freemium. Skip if you only need a single app's native MCP. |
 | **[GitHub MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/github)** *(Official)* | Search repositories, manage issues, read pull requests, and push code changes. | Essential once you start publishing web apps, portfolio templates, or open-source resources. |
 | **[Playwright MCP](https://github.com/executeautomation/mcp-playwright)** | Full browser automation — navigate pages, click buttons, fill forms, and take screenshots. | Useful for visual regression testing of landing pages, capturing screenshots, and dynamic web scraping. |
 | **[Git MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/git)** *(Official)* | Read, search, diff, and manipulate local Git repositories. | Pairs with GitHub MCP for seamless local-to-remote version control. |
