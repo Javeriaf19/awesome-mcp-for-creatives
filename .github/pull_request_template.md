@@ -1,4 +1,4 @@
-﻿## 📋 Submission Checklist
+﻿## Submission Checklist
 
 Before submitting this PR, please check all boxes that apply:
 
@@ -10,7 +10,7 @@ Before submitting this PR, please check all boxes that apply:
 
 ---
 
-### 🔍 Details of the Proposed Server
+### Details of the Proposed Server
 
 - **Server Name:** 
 - **Repository URL:** 
