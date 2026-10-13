@@ -1,4 +1,4 @@
-﻿# Awesome MCP for Creatives & Freelancers ⚡
+﻿# Awesome MCP for Creatives & Freelancers
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Model Context Protocol](https://img.shields.io/badge/MCP-Compatible-blue.svg)](https://modelcontextprotocol.io)
@@ -11,36 +11,36 @@
 
 Most existing MCP lists are dev-infra-heavy (databases, Kubernetes, cloud ops). This list is strictly filtered for **real creative and freelance workflows** — client communication, design tools, content pipelines, and solo-founder operations.
 
-If this saved you time, please drop a ⭐ **Star** — it helps more creators discover it!
+If this saved you time, please drop a **Star** — it helps more creators discover it!
 
 ---
 
-## 💡 Why This List is Different
+## Why This List is Different
 
-* 🎯 **Curated, not comprehensive:** Every entry here is picked because it solves a real creative workflow problem, not just because it exists.
-* 🚫 **No infra bloat:** No assumption that you're running Kubernetes, writing SQL, or managing an enterprise data warehouse.
-* 💼 **Categorized by Job-to-be-Done:** Grouped by what you are trying to accomplish (Design, Client Ops, Content, Storage, Research).
-* 🧐 **Honest notes:** If a server is overkill, hard to configure, or better replaced by an alternative, we say so upfront.
-
----
-
-## 📑 Table of Contents
-
-- [🎨 Design & Creative Tools](#-design--creative-tools)
-- [💼 Client & Freelance Ops](#-client--freelance-ops)
-- [📱 Content, Media & Social](#-content-media--social)
-- [📁 Docs, Files & Knowledge Base](#-docs-files--knowledge-base)
-- [🔍 Search & Inspiration Research](#-search--inspiration-research)
-- [🛠️ Dev Tools (for Designers & Builders)](#️-dev-tools-for-designers--builders)
-- [🏛️ Official & Reference Servers](#️-official--reference-servers)
-- [⚡ Quick Start: Recommended 5-Server Stacks](#-quick-start-recommended-5-server-stacks)
-- [🧭 How to Use This List & Best Practices](#-how-to-use-this-list--best-practices)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
+* **Curated, not comprehensive:** Every entry here is picked because it solves a real creative workflow problem, not just because it exists.
+* **No infra bloat:** No assumption that you're running Kubernetes, writing SQL, or managing an enterprise data warehouse.
+* **Categorized by Job-to-be-Done:** Grouped by what you are trying to accomplish (Design, Client Ops, Content, Storage, Research).
+* **Honest notes:** If a server is overkill, hard to configure, or better replaced by an alternative, we say so upfront.
 
 ---
 
-## 🎨 Design & Creative Tools
+## Table of Contents
+
+- [Design & Creative Tools](#-design--creative-tools)
+- [ Client & Freelance Ops](#-client--freelance-ops)
+- [ Content, Media & Social](#-content-media--social)
+- [ Docs, Files & Knowledge Base](#-docs-files--knowledge-base)
+- [Search & Inspiration Research](#-search--inspiration-research)
+- [Dev Tools (for Designers & Builders)](#️-dev-tools-for-designers--builders)
+- [️ Official & Reference Servers](#️-official--reference-servers)
+- [Quick Start: Recommended 5-Server Stacks](#-quick-start-recommended-5-server-stacks)
+- [ How to Use This List & Best Practices](#-how-to-use-this-list--best-practices)
+- [ Contributing](#-contributing)
+- [ License](#-license)
+
+---
+
+## Design & Creative Tools
 
 | Server | What it does | Honest Notes & Recommendation |
 | :--- | :--- | :--- |
@@ -52,7 +52,7 @@ If this saved you time, please drop a ⭐ **Star** — it helps more creators di
 
 ---
 
-## 💼 Client & Freelance Ops
+## Client & Freelance Ops
 
 | Server | What it does | Honest Notes & Recommendation |
 | :--- | :--- | :--- |
@@ -64,7 +64,7 @@ If this saved you time, please drop a ⭐ **Star** — it helps more creators di
 
 ---
 
-## 📱 Content, Media & Social
+## Content, Media & Social
 
 | Server | What it does | Honest Notes & Recommendation |
 | :--- | :--- | :--- |
@@ -74,7 +74,7 @@ If this saved you time, please drop a ⭐ **Star** — it helps more creators di
 
 ---
 
-## 📁 Docs, Files & Knowledge Base
+## Docs, Files & Knowledge Base
 
 | Server | What it does | Honest Notes & Recommendation |
 | :--- | :--- | :--- |
@@ -84,7 +84,7 @@ If this saved you time, please drop a ⭐ **Star** — it helps more creators di
 
 ---
 
-## 🔍 Search & Inspiration Research
+## Search & Inspiration Research
 
 | Server | What it does | Honest Notes & Recommendation |
 | :--- | :--- | :--- |
@@ -94,7 +94,7 @@ If this saved you time, please drop a ⭐ **Star** — it helps more creators di
 
 ---
 
-## 🛠️ Dev Tools (for Designers & Builders)
+## Dev Tools (for Designers & Builders)
 
 *Included because most designers-turned-builders end up needing exactly these, and nothing heavier:*
 
@@ -106,7 +106,7 @@ If this saved you time, please drop a ⭐ **Star** — it helps more creators di
 
 ---
 
-## 🏛️ Official & Reference Servers
+## ️ Official & Reference Servers
 
 Maintained directly by the **[Model Context Protocol](https://github.com/modelcontextprotocol/servers)** steering group as battle-tested baseline servers:
 
@@ -119,25 +119,25 @@ Maintained directly by the **[Model Context Protocol](https://github.com/modelco
 
 ---
 
-## ⚡ Quick Start: Recommended 5-Server Stacks
+## Quick Start: Recommended 5-Server Stacks
 
 Don't overload your AI client. Start with one of these battle-tested stacks:
 
-### 🎨 The UI/UX Designer Stack
+### The UI/UX Designer Stack
 1. **Figma MCP** (Extract design tokens & inspect components)
 2. **Filesystem MCP** (Save assets & write component code)
 3. **Exa MCP** (Semantic search for design patterns & inspiration)
 4. **Playwright MCP** (Screenshot live web builds & inspect UI)
 5. **Google Drive MCP** (Pull client briefs & brand assets)
 
-### 💼 The Solo Freelancer / Agency Stack
+### The Solo Freelancer / Agency Stack
 1. **Gmail MCP** (Draft & triage client emails)
 2. **Google Calendar MCP** (Schedule calls & manage availability)
 3. **Notion MCP** or **Airtable MCP** (Manage client CRM & project milestones)
 4. **Filesystem MCP** (Local proposal and deliverable management)
 5. **Tavily MCP** (Quick client discovery & industry research)
 
-### ✍️ The Content Creator / Marketer Stack
+### ️ The Content Creator / Marketer Stack
 1. **Notion MCP** (Content calendar & draft database)
 2. **Canva MCP** or **ComfyUI MCP** (Generate and adapt graphic assets)
 3. **Zapier MCP** (Publish to social channels & trigger alerts)
@@ -146,7 +146,7 @@ Don't overload your AI client. Start with one of these battle-tested stacks:
 
 ---
 
-## 🧭 How to Use This List & Best Practices
+## How to Use This List & Best Practices
 
 1. **Keep it lean (Rule of 5-6):** Do not connect more than 5–6 servers simultaneously. Every connected server adds tool descriptions to your AI's system context, which can slow down response times and degrade tool-selection accuracy.
 2. **Start with what hurts most:** If client scheduling eats your hours, set up Calendar/Gmail MCP first. If coding design tokens takes too long, set up Figma MCP.
@@ -155,7 +155,7 @@ Don't overload your AI client. Start with one of these battle-tested stacks:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! However, this directory **only stays useful if it remains strictly curated**.
 
@@ -169,12 +169,12 @@ Please read our **[Contributing Guidelines](CONTRIBUTING.md)** before submitting
 
 ---
 
-## 📄 License
+## License
 
 This repository is licensed under the [MIT License](LICENSE). Feel free to use, fork, and remix!
 
 ---
 
 <div align="center">
-  <sub>Curated with ❤️ by <a href="https://github.com/Javeriaf19">Javeria Farhan</a> and the open-source community.</sub>
+ <sub>Curated with ️ by <a href="https://github.com/Javeriaf19">Javeria Farhan</a> and the open-source community.</sub>
 </div>
