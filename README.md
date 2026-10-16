@@ -80,6 +80,7 @@ If this saved you time, please drop a **Star** — it helps more creators discov
 | :--- | :--- | :--- |
 | **[Filesystem MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)** *(Official)* | Secure, permission-scoped read and write access to local directories and project folders. | **Top Essential Default:** Allows your AI agent to read project files, write code, and organize assets on your computer. |
 | **[Fetch MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)** *(Official)* | Fetches and converts web pages to clean markdown for conversational reference. | Lightweight alternative to heavy browser automation when you just need to summarize web copy or articles. |
+| **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** | Stores notes and reference material as encrypted, append-only records, with device sync and grant-scoped MCP search for an AI assistant. | **When to use:** For technical solo builders who want a separate, self-managed knowledge store for project notes. **When to skip:** Developer alpha with CLI setup, not a ready-made notes app; no independent security audit. Grants do not isolate the owner process, and hosted models can see returned plaintext. |
 | **[Obsidian MCP](https://github.com/calclavia/mcp-obsidian)** | Direct read/write access to your local Obsidian markdown vault, notes, and backlinks. | Superb for creators using Obsidian as a "Second Brain" for creative concepts, client notes, and article drafts. |
 
 ---
