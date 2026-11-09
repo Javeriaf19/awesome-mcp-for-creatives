@@ -49,6 +49,7 @@ If this saved you time, please drop a **Star** — it helps more creators discov
 | **[ComfyUI / Stable Diffusion MCP](https://github.com/yannick-cw/comfyui-mcp)** | Triggers local or remote ComfyUI workflows, generating AI imagery, upscaling, and background removal on command. | Best for visual creators who already use Stable Diffusion / Flux and want conversational image generation in their agent chat. |
 | **[Blender MCP](https://github.com/ahujasid/blender-mcp)** | Controls Blender via natural language to generate 3D primitives, apply materials, adjust lighting, and trigger renders. | Powerful for 3D illustrators and motion designers wanting procedural scene setups. |
 | **[Cloudflare MCP](https://github.com/cloudflare/mcp-server-cloudflare)** | Manage Workers, KV, R2 asset storage, and DNS via natural language. | Useful once you are hosting client assets, portfolios, or landing pages. Slight learning curve if you come purely from a design background. |
+| **[PeerBrush](https://github.com/Deftr0y/PeerBrush)** | First-party local MCP server for a GPLv3 raster editor. A client can inspect and edit layers and masks in the same open document the artist is using. | **When to use:** Editable layer and mask work alongside manual painting. **When to skip:** The desktop editor must stay open, and PSDs with unsupported structures are read-only. |
 
 ---
 
