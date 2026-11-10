@@ -49,6 +49,7 @@ If this saved you time, please drop a **Star** — it helps more creators discov
 | **[ComfyUI / Stable Diffusion MCP](https://github.com/yannick-cw/comfyui-mcp)** | Triggers local or remote ComfyUI workflows, generating AI imagery, upscaling, and background removal on command. | Best for visual creators who already use Stable Diffusion / Flux and want conversational image generation in their agent chat. |
 | **[Blender MCP](https://github.com/ahujasid/blender-mcp)** | Controls Blender via natural language to generate 3D primitives, apply materials, adjust lighting, and trigger renders. | Powerful for 3D illustrators and motion designers wanting procedural scene setups. |
 | **[Cloudflare MCP](https://github.com/cloudflare/mcp-server-cloudflare)** | Manage Workers, KV, R2 asset storage, and DNS via natural language. | Useful once you are hosting client assets, portfolios, or landing pages. Slight learning curve if you come purely from a design background. |
+| **[Imagera MCP](https://imagera.ai/mcp)** | Remote MCP server (OAuth sign-in) that generates and edits images, video, voice and music with many AI models, and keeps a face or product consistent across shots with Character and Object IDs. | Best for creators who want one connection for stills, clips and voice-overs from their agent chat. Paid (Imagera credits, Pro plan); the price is shown before each run. |
 
 ---
 
