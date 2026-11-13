@@ -70,6 +70,7 @@ If this saved you time, please drop a **Star** — it helps more creators discov
 | :--- | :--- | :--- |
 | **[Zapier Central / MCP](https://github.com/zapier/zapier-mcp)** | Gives AI access to 6,000+ app actions (social scheduling, Slack notifications, form triggers, Webhooks). | **The ultimate Swiss Army knife:** The fastest way to connect niche apps without custom code. Use when no dedicated MCP exists. |
 | **[Notion MCP](https://github.com/suekou/mcp-notion-server)** | Read and write to Notion databases, content calendars, project trackers, and moodboards. | If your creative roadmaps and client deliverables live in Notion, this completes the feedback loop seamlessly. |
+| **[Magic Hour MCP](https://github.com/magichourhq/magic-hour-mcp)** | Generate and edit images and video, and create audio from an MCP client. | **When to use:** Draft visual assets or short clips for a content project. **When to skip:** Use a local editor for offline work or precise timeline edits. A Magic Hour account is required, and generation uses credits. |
 | **[Media Toolkit / FFmpeg MCP](https://github.com/modelcontextprotocol/servers)** | Slice videos, convert audio/video formats, compress assets, and extract audio tracks locally. | A lifesaver for video creators, podcasters, and motion designers needing fast batch file transformations. |
 
 ---
