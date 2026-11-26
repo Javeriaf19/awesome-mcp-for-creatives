@@ -49,6 +49,7 @@ If this saved you time, please drop a **Star** — it helps more creators discov
 | **[ComfyUI / Stable Diffusion MCP](https://github.com/yannick-cw/comfyui-mcp)** | Triggers local or remote ComfyUI workflows, generating AI imagery, upscaling, and background removal on command. | Best for visual creators who already use Stable Diffusion / Flux and want conversational image generation in their agent chat. |
 | **[Blender MCP](https://github.com/ahujasid/blender-mcp)** | Controls Blender via natural language to generate 3D primitives, apply materials, adjust lighting, and trigger renders. | Powerful for 3D illustrators and motion designers wanting procedural scene setups. |
 | **[Cloudflare MCP](https://github.com/cloudflare/mcp-server-cloudflare)** | Manage Workers, KV, R2 asset storage, and DNS via natural language. | Useful once you are hosting client assets, portfolios, or landing pages. Slight learning curve if you come purely from a design background. |
+| **[Linger](https://github.com/suicuLsi/linger-docs)** | Local stdio MCP server for reading authorized visual references, notes, and Project Canvases on Mac. [Setup guide](https://withlinger.com/resources/mcp-design-reference-library/). | **When to use:** Designers using a private reference library on Apple Silicon with macOS 14+. Linger is a paid app with a trial. **When to skip:** You need a hosted MCP endpoint or another platform. |
 
 ---
 
