@@ -71,6 +71,7 @@ If this saved you time, please drop a **Star** — it helps more creators discov
 | **[Zapier Central / MCP](https://github.com/zapier/zapier-mcp)** | Gives AI access to 6,000+ app actions (social scheduling, Slack notifications, form triggers, Webhooks). | **The ultimate Swiss Army knife:** The fastest way to connect niche apps without custom code. Use when no dedicated MCP exists. |
 | **[Notion MCP](https://github.com/suekou/mcp-notion-server)** | Read and write to Notion databases, content calendars, project trackers, and moodboards. | If your creative roadmaps and client deliverables live in Notion, this completes the feedback loop seamlessly. |
 | **[Media Toolkit / FFmpeg MCP](https://github.com/modelcontextprotocol/servers)** | Slice videos, convert audio/video formats, compress assets, and extract audio tracks locally. | A lifesaver for video creators, podcasters, and motion designers needing fast batch file transformations. |
+| **[Poptin MCP](https://github.com/Poptin-LTD/Poptin-MCP)** | Draft newsletters for opted-in readers, compare signup form performance, and build subscriber segments through the hosted OAuth connector. | **When to use:** You already publish newsletters or manage audience growth in Poptin. **When to skip:** You need a standalone newsletter editor or have no Poptin account. |
 
 ---
 
